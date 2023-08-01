@@ -1729,7 +1729,7 @@ h2 {
 }
 
 .pageTitleWithDefaultLogo {
-  background-image: url("https://github.com/0xZ0uk/jellyflix-zero/blob/main/blu_logo_white.png");
+  background-image: url("https://github.com/0xZ0uk/jellyflix-zero/blob/main/blu_logo_white.png") !important;
 }
 
 /*Blur backdrops, feel free to edit the intensity of the filter values*/
