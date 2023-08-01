@@ -24,7 +24,7 @@ div#itemDetailPage {
 }
 
 .hide + .detailPageWrapperContainer .detailPagePrimaryContent {
-  min-height: 65vh !important;
+  min-height: 50vh !important;
 }
 
 .hide + .detailPageWrapperContainer .detailRibbon {

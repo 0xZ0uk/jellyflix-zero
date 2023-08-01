@@ -2,7 +2,7 @@
 
 :root {
   --deftraback: rgba(229, 9, 20, 0.2) !important;
-  --rounding: 3px;
+  --rounding: 10px;
   --accent: #e50914;
 }
 
@@ -1019,6 +1019,7 @@ label.selectLabel {
 
 .cardBox {
   background: transparent !important;
+  border-radius: var(--rounding);
   box-shadow: none;
   overflow: hidden;
   transition: all 0.15s;
@@ -2276,8 +2277,8 @@ div:not(.paperList) .listItem {
 /* Spinner */
 
 .mdl-spinner__layer.mdl-spinner__layer-1.mdl-spinner__layer-1-active,
-.mdl-spinner__layer.mdl-spinner__layer-2.mdl-spinner__layer-2-active, 
-.mdl-spinner__layer.mdl-spinner__layer-3.mdl-spinner__layer-3-active, 
+.mdl-spinner__layer.mdl-spinner__layer-2.mdl-spinner__layer-2-active,
+.mdl-spinner__layer.mdl-spinner__layer-3.mdl-spinner__layer-3-active,
 .mdl-spinner__layer.mdl-spinner__layer-4.mdl-spinner__layer-4-active {
   border-color: var(--accent);
 }
