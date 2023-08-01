@@ -1728,6 +1728,10 @@ h2 {
   margin-bottom: auto;
 }
 
+.pageTitleWithDefaultLogo {
+  background-image: url("https://github.com/0xZ0uk/jellyflix-zero/blob/main/blu_logo_white.png");
+}
+
 /*Blur backdrops, feel free to edit the intensity of the filter values*/
 
 .backdropContainer {

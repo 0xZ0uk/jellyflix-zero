@@ -9,12 +9,11 @@
 <h2>Usage:</h2>
 <h3> To use it, got to Setting ==> Dashboard ==> General and scroll down to custom css and paste the following line</h3>
 
-
 <h3>Base Version:</h3>
 <h3>Auto Update: </h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/default.css");
+@import url("https://cdn.jsdelivr.net/gh/0xZ0uk/jellyflix-zero@main/default.css");
 ```
 
 <h3>Custom  Version:</h3>
@@ -45,12 +44,12 @@ Jellyfin-Blue:
 ```css
 @import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@9.0.4/addons/jf-blue.css");
 ```
+
 Jellyfin-Purple:
 
 ```css
 @import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@9.0.4/addons/jf-purple.css");
 ```
-
 
 <br>
 <div class="imagesCont">
@@ -84,9 +83,10 @@ Jellyfin-Purple:
 <div class="note">
   <h2>Note: If you want any things to be changed/added to this skin create and issue with 'Feature Request:' in front of it and I also want to make this skin to be supported by most of the devices, so create an issue if your device doesn't work properly with it. Please provide me the name of your device with it's type in this format-<br></h2>
 
-  ```
-    Device-name: Your name
-    type: Mobile/TV (Laptop are all supported, use 67% zoom)
-  ```
+```
+  Device-name: Your name
+  type: Mobile/TV (Laptop are all supported, use 67% zoom)
+```
+
 </div>
 <br>
